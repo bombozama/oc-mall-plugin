@@ -500,6 +500,7 @@
             'total' => 'Order total is reached',
             'code' => 'Discount code is entered',
             'product' => 'A specific product is present in the cart',
+            'customer_group' => 'The user belongs to a specific customer group',
         ],
         'validation' => [
             'empty' => 'Enter a promo code.',
@@ -554,7 +555,7 @@
         'shipping_provider' => 'Shipping provider',
         'shipping_method' => 'Shipping method',
         'card_holder_name' => 'Card holder',
-        'card_type' => 'Cart type',
+        'card_type' => 'Card type',
         'payment_method' => 'Payment method',
         'payment_gateway_used' => 'Payment gateway',
         'tax_provider' => 'Tax provider',
