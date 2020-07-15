@@ -131,6 +131,6 @@ trait BootExtensions
                 //     'tab'   => 'offline.mall::lang.plugin.name',
                 // ],
             ]);
-        });
+        }, 10);
     }
 }
